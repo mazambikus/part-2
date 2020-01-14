@@ -1,0 +1,28 @@
+Units of measurement:
+
+1) absolute (px, cm, mm, m , pt, pc, in)
+2) relative (%, em,rem, vh, vw, vmax, vmin)
+
+em - относительно высоты шрифта родителя.
+rem - Относительно высоты шрифта корневого элемента html
+vh - viewport height - высота окна/экрана
+1vh = 1% от высоты экрана
+vw - viewport width -ширина окна/экрана
+1vw= 1% от высоты экрана
+
+
+функция calc () для вычисления размеров, углов и т.д.
+
+
+
+Units of angles:
+
+deg - transform: rotate(90deg)
+grad
+rad
+turn
+
+Units for duration:
+
+s - transition: 5s;
+ms - 1000ms = 1s
